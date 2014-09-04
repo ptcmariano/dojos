@@ -1,3 +1,15 @@
 // Place all the styles related to the courses controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.sidebar-nav {
+	background-color: #eff;
+}
+.col-lg-3 {
+	float: right;
+}
+.col-lg-9 {
+	float: left;
+}
+.row {
+	display: block;
+}
